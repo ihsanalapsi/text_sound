@@ -29,6 +29,8 @@ Before you begin, ensure you have the following:
    ```sh
    cd text_sound
 3. Open index.html in your preferred web browser.
+
+
 ### Usage
 1. Open the web application using the steps mentioned in the Installation section.
 2. Enter the text you want to hear in the textarea.
@@ -39,10 +41,10 @@ Before you begin, ensure you have the following:
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to create an issue or submit a pull request.
 
 ### License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ihsanalapsi/text_sound.github.io/blob/master/LICENSE) file for details.
 
 ### Contact
-If you have any questions or want to get in touch, you can reach out to me through GitHub or LinkedIn.
+If you have any questions or want to get in touch, you can reach out to me through [LinkedIn](https://bit.ly/linkedin_ihsanalapsi) or [Instagram](https://bit.ly/3IXTqqM) .
 
 
 
