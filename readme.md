@@ -2,21 +2,10 @@
 
 Text Sound is a simple web application that allows users to input text and have it read aloud using the browser's built-in speech synthesis capabilities.
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Demo
 
-Check out the live demo of Text Sound [here](https://ihsanalapsi.github.io/text_sound/).
+Check out the live demo of Text Sound [here](https://ihsanalapsi.github.io/text_sound.github.io/).
 
 ## Features
 
